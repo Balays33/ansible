@@ -2,7 +2,7 @@ name: Build
 on:
   push:
     branches:
-      - devel # or the name of your main branch
+      - deveel # or the name of your main branch
 jobs:
   build:
     name: Build
